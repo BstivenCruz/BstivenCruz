@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+```` 
 const Stiven = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python,],
@@ -13,6 +13,9 @@ const Stiven = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and javaScript"
 }
+
+````
+
 
 
 <h3 align="left">Languages and Tools:</h3>
