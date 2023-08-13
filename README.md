@@ -4,16 +4,7 @@
 const Stiven = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python,],
-  tools: [React, Redux, Node],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and javaScript"
-}
-
+  tools: [React, Redux, Node]
 ````
 
 
